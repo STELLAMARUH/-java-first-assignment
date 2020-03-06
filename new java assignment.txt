@@ -1,0 +1,12 @@
+HOW TO REPLACE A SAFARICOM SIMCARD
+1.locate a service provider shop
+2.Buy a new replacement sim
+3.Take a new safaricom cards and and insert it into your device 
+4.Contact safaricom customer care
+5.Confirm ownership of the line to be replaced 
+6.Dial #IMS number
+7.Enter your mobile number 
+8.Enter original pin
+9.Activate your mpesa on new line
+10.If the detail given is correct then your sim is replaced 
+11.If not the safaricon provider sends you a message
